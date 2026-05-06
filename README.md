@@ -66,7 +66,7 @@ After completing all deployment and configuration steps described above, the sys
 The processed video stream from the IP camera is displayed with YOLOv9 detections (bounding boxes, labels, and confidence scores) rendered directly on the Jetson device via an SDL-based window.
 This is the final output observed on the Jetson desktop:
 
-![Final Output](linux.png)
+![Final Output](Linux.png)
 
 ---
 
