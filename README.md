@@ -60,6 +60,14 @@ To maximize inference speed and utilize the Tensor Cores on the Jetson AGX Orin,
 
 ![Data Type Configuration](Type.png)
 
+## 4. Final Execution Output
+
+After completing all deployment and configuration steps described above, the system runs on the Jetson AGX Orin and produces the following real-time output interface.
+The processed video stream from the IP camera is displayed with YOLOv9 detections (bounding boxes, labels, and confidence scores) rendered directly on the Jetson device via an SDL-based window.
+This is the final output observed on the Jetson desktop:
+
+![Final Output](linux.png)
+
 ---
 
 ## Generate, Deploy, and Run
