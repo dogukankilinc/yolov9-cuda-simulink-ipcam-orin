@@ -26,7 +26,7 @@ The Simulink model uses the network stream input and display blocks from the MAT
 
 The Simulink model is divided into highly optimized subsystems for edge deployment:
 
-![System Architecture](Linux.png)
+![System Architecture](Architecture.png)
 
 1. **NVIDIA Video Source:** Configured to receive an RTSP/HTTP video stream from an IP camera over the network.
 2. **RGBToImg:** Converts the separate R, G, and B component outputs into a planar RGB image format.
