@@ -84,4 +84,4 @@ This is the final output observed on the Jetson desktop:
 [![Final Output](Linux.png)]
 
 ### Demo Video
-<iframe src="https://drive.google.com/file/d/1szGNv1oBUYBJpepv5-M9qrVDdAw4olH7/preview" width="640" height="480" allow="autoplay"></iframe>
+[Click here to watch the demo video](https://drive.google.com/file/d/1szGNv1oBUYBJpepv5-M9qrVDdAw4olH7/view?usp=sharing)
